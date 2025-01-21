@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "7️⃣",
+      "6️⃣",
+      "5️⃣",
+      "4️⃣",
+      "3️⃣"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "01_Rough Notes": "1️⃣",
+  "02_Source Materials": "2️⃣",
+  "03_Tags": "3️⃣",
+  "04_Indexes": "4️⃣",
+  "05_Templates": "5️⃣",
+  "06_Main Notes": "6️⃣",
+  "07_Excalidraw": "7️⃣"
+}

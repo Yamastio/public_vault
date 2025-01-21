@@ -1,0 +1,3 @@
+- [ ] Belajar Try Hack Me 30 menit / day
+- [ ] Belajar Pemrograman Mobile 30 menit Sabtu
+- [ ] Belajar Pemrograman Web 30 Menit Minggu

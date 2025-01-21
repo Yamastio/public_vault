@@ -1,0 +1,34 @@
+Tags: [[hacking_fundamentals]] [[blue_team]]
+
+- **Definisi**: Ethical hacker atau white hat hacker adalah profesional keamanan siber yang secara etis mengidentifikasi dan mengeksploitasi kerentanan dalam sistem untuk meningkatkan keamanan dan mencegah serangan dari pihak yang tidak bertanggung jawab.
+- **Peran Utama**:
+    - **Penetration Testing**: Menguji kelemahan sistem melalui simulasi serangan.
+    - **Vulnerability Assessment**: Mengevaluasi dan mencari kerentanan yang ada.
+    - **Risk Assessment**: Menilai risiko yang mungkin terjadi dari kerentanan.
+    - **Security Awareness**: Meningkatkan kesadaran keamanan di dalam organisasi.
+    - **Incident Response**: Merespons dan memulihkan dari insiden keamanan.
+    - **Policy Development**: Mengembangkan kebijakan keamanan yang sesuai.
+- **Tanggung Jawab**:
+    - **Bertindak Etis** sesuai dengan kode etik dan hukum.
+    - **Mendapatkan Izin** dari pemilik sistem sebelum melakukan pengujian.
+    - **Melaporkan Temuan** secara detail kepada pihak berwenang.
+    - **Menjaga Kerahasiaan** informasi yang diperoleh selama pengujian.
+    - **Memberikan Solusi** untuk memperbaiki kerentanan.
+    - **Tidak Menyalahgunakan Akses** yang diperoleh selama pengujian.
+- **Keterampilan yang Dibutuhkan**:
+    - Pemahaman mendalam tentang sistem operasi (Windows, Linux, Unix).
+    - Pengetahuan jaringan (TCP/IP, firewall).
+    - Penguasaan bahasa pemrograman (Python, Perl, C).
+    - Kemampuan dalam penggunaan alat seperti Nmap, Metasploit.
+    - Keterampilan komunikasi dan pemecahan masalah.
+- **Siklus Kerja Ethical Hacker**:
+    - **Planning**: Menentukan target dan ruang lingkup pengujian.
+    - **Discovery**: Mengumpulkan informasi awal.
+    - **Scanning**: Memindai target untuk menemukan kerentanan.
+    - **Exploitation**: Mengeksploitasi kelemahan yang ditemukan.
+    - **Gaining Access**: Memperoleh dan meningkatkan hak akses.
+    - **Maintaining Access**: Mempertahankan akses untuk jangka waktu tertentu.
+    - **Reporting**: Menyusun laporan temuan.
+- **Contoh Tugas Nyata**:
+    - Menguji keamanan aplikasi web, jaringan, sistem operasi, dan sistem kontrol industri.
+- **Kesimpulan**: Ethical hacker membantu melindungi aset digital organisasi melalui pendekatan etis dan keterampilan yang mumpuni dalam mendeteksi serta mengamankan potensi kerentanan.

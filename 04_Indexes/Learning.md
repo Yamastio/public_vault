@@ -1,0 +1,42 @@
+## Coding
+[[computational]]
+[[java_oop]]
+[[python_fundamentals]]
+[[mysql]]
+[[android_studio_jetpack_compose]]
+[[devops_fundamental]]
+[[coding_tools]]
+[[android_project]]
+[[php_oop]]
+
+
+## Hacking
+[[hacking_fundamentals]]
+[[hacking_intermediate]]
+[[hacking_advance]]
+[[network_security]]
+[[system_security]]
+[[hacking_development]]
+[[malware_analysis]]
+[[cryptography]]
+[[red_team]]
+[[blue_team]]
+[[vulnerability_assessment]]
+[[hacking_tools]]
+[[hacking_labs]]
+[[tipe_serangan]]
+[[celah_keamanan]]
+## Lifehack
+[[teknik_mencatat]]
+[[produktivitas]]
+[[mindset]]
+[[efisiensi]]
+[[habit_building]]
+
+## Lifestyle
+[[kesehatan]]
+[[keuangan]]
+[[travel]]
+[[sosial]]
+[[minimalisme]]
+[[sustainability]]
