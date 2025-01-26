@@ -1,0 +1,64 @@
+Filename:
+Size:
+klik kanan -> properties -> general -> size = 466,944 bytes
+Time/date stamp:
+Compiler: gunakan PEiD, Microsoft Visual C++ 2010 SP1 x86
+MD5:
+- Perlu diperhatikan laporan hash harus dalam huruf kapital
+```certutil -hashfile "Lokasi Malware" MD5 >> <lokasi output.txt>```
+
+``certutil -hashfile "C:\User\InfoSec\Desktop\Malware Sample\TrickBot\31212314" MD5 >> C:\User\Infosec\Desktop\name.txt``
+
+SHA-1:
+
+```certutil -hashfile "Lokasi Malware" SHA1 >> <lokasi output.txt>```
+
+SHA-256:
+
+```certutil -hashfile "Lokasi Malware" SHA256 >> <lokasi output.txt>```
+
+=======================================
+Strings of interest
+---------------------------------------
+
+
+
+=======================================
+Imports
+---------------------------------------
+
+
+=======================================
+Exports
+---------------------------------------
+
+
+
+=======================================
+Files created/modified/deleted
+---------------------------------------
+
+
+=======================================
+Registry keys created/modified/deleted
+---------------------------------------
+
+
+=======================================
+Networking
+---------------------------------------
+
+
+
+
+=======================================
+Online research
+---------------------------------------
+
+
+
+=======================================
+Analysis notes
+---------------------------------------
+
+
