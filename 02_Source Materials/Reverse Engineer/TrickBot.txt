@@ -20,7 +20,25 @@ SHA-256:
 =======================================
 Strings of interest
 ---------------------------------------
-
+- USER32.dll
+- Ada API function calls(RegEnumKeyEx, RegQueryValueEx, RegOpenKeyEx)
+- wsprintf
+- Registry key: SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpClient
+- Registry value: NtpServer
+- .jpg JPG file
+- .dat
+- remoteRegistry
+- k- exe.tsoh
+- abdb
+- .pic
+- 5%????????????????5%?????????
+- 5%53476%????????????????????1024
+- 5%54$$$$$$$$$$$$$$$%??????
+- 14%1024$$$$$1032(string yang panjang mungkin bisa berarti sesuatu)
+- taskkill
+- zhuDongFangYu.exe
+- explorer
+- Original Filename 360se.exe
 
 
 =======================================
