@@ -1,6 +1,12 @@
+---
+id: DIG
+aliases: []
+tags: []
+---
+
 tags: [[hacking_intermediate]] [[hacking_tools]]
 
-## apa itu dig ?
+## Apa itu dig ?
 
 `Domain Information Groper` adalah utilitas yang digunakan untuk melakukan query DNS. Tool ini lebih fleksibel dibandingkan `nslookup` dan dapat melakukan berbagai query, seperti pencarian tipe A, MX, dan NS.
 
