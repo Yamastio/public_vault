@@ -1,6 +1,13 @@
+---
+id: hacking_intermediate
+aliases: []
+tags: []
+---
+
 Tags: [[Learning]]
 
 ### Daftar Isi
+
 [[SQL Map]]
 [[Burpsuite]]
 [[Whois]]
@@ -12,5 +19,4 @@ Tags: [[Learning]]
 [[Shodan]]
 [[WhatWeb]]
 [[Nmap]]
-[[NetCat]]
 [[Dirsearch]]

@@ -196,8 +196,7 @@
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "135830d25ccc6539",
